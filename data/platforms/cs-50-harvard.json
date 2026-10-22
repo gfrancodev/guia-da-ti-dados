@@ -1,0 +1,13 @@
+{
+  "slug": "cs-50-harvard",
+  "type": "platforms",
+  "name": "CS 50 Harvard",
+  "summary": "Diversos cursos de computação ministrados em Harvard",
+  "description": "Harvard's CS50 is a series of online computer science courses taught by Harvard University and available on edX.\n\nMost learners start with CS50x, a beginner-friendly introduction to programming and problem-solving, designed for learners with and without a computer science background. In fact, about two-thirds of CS50 students have never taken a computer science course before.\n\nYou can continue with CS50 courses on topics such as Python, AI, cybersecurity, and web development. Each one shares the CS50 name but focuses on developing a different skill set.",
+  "url": "https://www.edx.org/cs50",
+  "areas": ["educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-21",
+  "demo": false
+}
